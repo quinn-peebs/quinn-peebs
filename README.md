@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @quinn-peebs
 - 👀 I’m interested in laerning to code & program
-- 🌱 I’m currently learning HTML,CSS, and JavaScript. React next!
+- 🌱 I’m currently learning HTML, CSS, and JavaScript. React next!
 - 📫 How to reach me --> qlpeebles97@gmail.com
 
 <!---
